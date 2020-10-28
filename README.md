@@ -1,2 +1,2 @@
 # Serializer_in_DRF-part2
- Class BAsed Views Serializer IN Django_RESTFRAMEWORK
+ Class Based Views Serializer IN Django_RESTFRAMEWORK
